@@ -178,7 +178,7 @@ public class Plugin : BaseUnityPlugin
 
 			// Apply Harmony patches
 			PeakNetworkDisconnectorMod.Logger.Info("Applying Harmony patches", "Plugin");
-			new Harmony("com.icemods.hostbanmod").PatchAll();
+			new Harmony("com.unluckyjori.peakbanmod").PatchAll();
 
 			// Log successful initialization
 			PeakNetworkDisconnectorMod.Logger.Info("PEAK BAN SYSTEM Mod loaded successfully! Only host can disconnect players.", "Plugin");
