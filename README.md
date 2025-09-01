@@ -51,7 +51,7 @@ A powerful BepInEx mod for PEAK that gives room hosts complete control over play
 
 Access the configuration file at:
 ```
-PEAK/BepInEx/config/com.icemods.hostbanmod.cfg
+PEAK/BepInEx/config/com.unluckyjori.hostbanmod.cfg
 ```
 
 #### Key Settings
