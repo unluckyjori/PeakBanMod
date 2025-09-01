@@ -214,7 +214,7 @@ namespace PeakNetworkDisconnectorMod
                 if (cheatDetectionsType != null)
                 {
                     // Patch specific methods using reflection
-                    var harmony = new Harmony("com.icemods.hostbanmod.peakerintegration");
+                    var harmony = new Harmony("com.unluckyjori.hostbanmod.peakerintegration");
 
                     // Apply ban button patch manually
                     var banButtonTarget = PeakerBanButtonPatch.GetTargetMethod();
