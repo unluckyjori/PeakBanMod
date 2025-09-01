@@ -18,7 +18,7 @@ A powerful BepInEx mod for PEAK that gives room hosts complete control over play
 
 ### Anti-Cheat Integration
 - **Auto-Detection**: Automatically detects known cheating tools
-- **External Mod Support**: Integrates with PEAKER and PeakAntiCheat mods
+- **External Mod Support**: Integrates with [PEAKER](https://thunderstore.io/c/peak/p/lammas123/PEAKER/) and [PeakAntiCheat](https://thunderstore.io/c/peak/p/hiccup/PEAKAntiCheat/) mods
 - **Smart Enforcement**: Two enforcement modes for different situations
 
 ### User Interface
@@ -119,7 +119,7 @@ This file persists across game sessions and can be edited manually if needed.
 1. **Communicate**: Let players know about active moderation
 2. **Document**: Keep ban reasons for transparency
 3. **Review**: Regularly review and clean up old bans
-4. **Update**: Keep the mod updated for latest features and fixes
+4. **Update**: Keep the mod updated for the latest features and fixes
 
 ## Credits
 
