@@ -11,7 +11,7 @@ using PeakNetworkDisconnectorMod.Managers;
 
 namespace PeakNetworkDisconnectorMod;
 
-[BepInPlugin("com.icemods.hostbanmod", "Peak Ban Mod", "1.3.0")]
+[BepInPlugin("com.unluckyjori.peakbanmod", "Peak Ban Mod", "1.0.0")]
 [BepInProcess("PEAK.exe")]
 public class Plugin : BaseUnityPlugin
 {
