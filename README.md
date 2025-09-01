@@ -128,7 +128,7 @@ This file persists across game sessions and can be edited manually if needed.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/unluckyjori/PeakBanMod/issues)
+**Issues**: [GitHub Issues](https://github.com/unluckyjori/PeakBanMod/issues)
 
 ## Contributing
 
