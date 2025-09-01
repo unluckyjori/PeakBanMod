@@ -130,6 +130,10 @@ This file persists across game sessions and can be edited manually if needed.
 
 - **Issues**: [GitHub Issues](https://github.com/unluckyjori/PeakBanMod/issues)
 
+## Contributing
+
+Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
