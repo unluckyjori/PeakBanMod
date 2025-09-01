@@ -38,7 +38,7 @@ namespace PeakNetworkDisconnectorMod
 						// Apply Harmony patches for PeakAntiCheat integration
 						if (_harmony == null)
 						{
-							_harmony = new Harmony("com.icemods.peakanticheat.integration");
+							_harmony = new Harmony("com.unluckyjori.peakanticheat.integration");
 							ApplyPeakAntiCheatPatches();
 						}
 					}
