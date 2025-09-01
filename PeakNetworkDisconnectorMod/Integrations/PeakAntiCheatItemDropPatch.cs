@@ -37,7 +37,7 @@ namespace PeakNetworkDisconnectorMod
                         // Apply Harmony patches for item drop detection bypass
                         if (_harmony == null)
                         {
-                            _harmony = new Harmony("com.icemods.peakanticheat.itemdrop.patch");
+                            _harmony = new Harmony("com.unluckyjori.peakanticheat.itemdrop.patch");
                             ApplyHarmonyPatches();
                         }
                     }
