@@ -1,0 +1,9 @@
+{
+    "name": "PeakBanMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/unluckyjori/PeakBanMod",
+    "description": "A mod for Peak that detects and bans cheating players using advanced ban logic.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
