@@ -4,24 +4,24 @@ A powerful BepInEx mod for PEAK that gives room hosts complete control over play
 
 ## Features
 
-### 🛡️ Host-Only Ban System
+### Host-Only Ban System
 - **Host Control**: Only room hosts can access ban management
 - **Persistent Bans**: Ban list survives game restarts
 - **Steam ID Integration**: Accurate player identification using Steam IDs
 - **Ban by Name or ID**: Flexible banning options
 
-### 🔍 Anti-Cheat Integration
+### Anti-Cheat Integration
 - **Auto-Detection**: Automatically detects known cheating tools
 - **External Mod Support**: Integrates with PEAKER and PeakAntiCheat mods
 - **Smart Enforcement**: Two enforcement modes for different situations
 
-### 🎮 User Interface
+### User Interface
 - **In-Game Menu**: Press F10 (configurable) to open ban management
 - **Real-Time Player List**: See all players with their Steam IDs
 - **One-Click Actions**: Ban/unban players with a single click
 - **Visual Indicators**: Clear status indicators for banned/targeted players
 
-### ⚙️ Enforcement Modes
+### Enforcement Modes
 
 #### Passive Mode
 - Blocks network from them
