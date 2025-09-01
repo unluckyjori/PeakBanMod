@@ -26,7 +26,7 @@ A powerful BepInEx mod for PEAK that gives room hosts complete control over play
 #### Passive Mode
 - Blocks network from them
 - Prevents further gameplay disruption
-- Allows manual intervention by host
+- Allows manual intervention by the host
 
 #### Aggressive Mode
 - Uses network flooding
@@ -115,6 +115,11 @@ This file persists across game sessions and can be edited manually if needed.
 3. **Review**: Regularly review and clean up old bans
 4. **Update**: Keep the mod updated for latest features and fixes
 
+## Credits
+
+**icetypes**
+- For making the [original mod](https://thunderstore.io/c/peak/p/IceMods/PeakBanMod/)
+
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/your-repo/PeakBanMod/issues)
@@ -125,7 +130,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Disclaimer**: This mod is for educational and administrative purposes. Use responsibly and in accordance with game terms of service.
+**Disclaimer**: This mod is for educational and administrative purposes. Use responsibly and in accordance with game's terms of service.
 
 ---
 
