@@ -4,7 +4,7 @@ A powerful BepInEx mod for PEAK that gives room hosts complete control over play
 
 ---
 
-**Disclaimer**: This mod uses packet flooding when Aggressive Enforcement Mode is enabled. Packet flooding sends more data than the normal game in the attempt to disconnect them, which can stress Photon servers and may violate the Terms of Service. Use at your own risk.
+**Disclaimer**: This mod uses packet flooding when Aggressive Enforcement Mode is enabled. Packet flooding sends more data than the normal game would in an attempt to disconnect them, which can stress Photon servers and may violate the Terms of Service. Use at your own risk.
 
 ---
 
