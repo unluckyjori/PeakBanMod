@@ -2,6 +2,11 @@
 
 A powerful BepInEx mod for PEAK that gives room hosts complete control over player management and anti-cheat enforcement.
 
+---
+
+**Disclaimer**: This mod uses packet flooding when Aggressive Enforcement Mode is enabled. Packet flooding sends more data than the normal game in the attempt to disconnect them, which can stress Photon servers and may violate the Terms of Service. Use at your own risk.
+
+---
 ## Features
 
 ### Host-Only Ban System
@@ -127,10 +132,4 @@ This file persists across game sessions and can be edited manually if needed.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Disclaimer**: This mod is for educational and administrative purposes. Use responsibly and in accordance with game's terms of service.
-
----
 
