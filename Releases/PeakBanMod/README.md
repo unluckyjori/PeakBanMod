@@ -2,6 +2,12 @@
 
 A powerful BepInEx mod for PEAK that gives room hosts complete control over player management and anti-cheat enforcement.
 
+---
+
+**Disclaimer**: This mod uses packet flooding when Aggressive Enforcement Mode is enabled. Packet flooding sends more data than the normal game would in an attempt to disconnect them, which can stress Photon servers and may violate the Terms of Service. Use at your own risk.
+
+---
+
 ## Features
 
 ### Host-Only Ban System
@@ -12,7 +18,7 @@ A powerful BepInEx mod for PEAK that gives room hosts complete control over play
 
 ### Anti-Cheat Integration
 - **Auto-Detection**: Automatically detects known cheating tools
-- **External Mod Support**: Integrates with PEAKER and PeakAntiCheat mods
+- **External Mod Support**: Integrates with [PEAKER](https://thunderstore.io/c/peak/p/lammas123/PEAKER/) and [PeakAntiCheat](https://thunderstore.io/c/peak/p/hiccup/PEAKAntiCheat/) mods
 - **Smart Enforcement**: Two enforcement modes for different situations
 
 ### User Interface
@@ -45,7 +51,7 @@ A powerful BepInEx mod for PEAK that gives room hosts complete control over play
 
 Access the configuration file at:
 ```
-PEAK/BepInEx/config/com.icemods.hostbanmod.cfg
+PEAK/BepInEx/config/com.unluckyjori.hostbanmod.cfg
 ```
 
 #### Key Settings
@@ -113,7 +119,7 @@ This file persists across game sessions and can be edited manually if needed.
 1. **Communicate**: Let players know about active moderation
 2. **Document**: Keep ban reasons for transparency
 3. **Review**: Regularly review and clean up old bans
-4. **Update**: Keep the mod updated for latest features and fixes
+4. **Update**: Keep the mod updated for the latest features and fixes
 
 ## Credits
 
@@ -122,15 +128,8 @@ This file persists across game sessions and can be edited manually if needed.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/PeakBanMod/issues)
+- **Issues**: [GitHub Issues](https://github.com/unluckyjori/PeakBanMod/issues)
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Disclaimer**: This mod is for educational and administrative purposes. Use responsibly and in accordance with game's terms of service.
-
----
-
