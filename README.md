@@ -78,8 +78,8 @@ This file persists across game sessions and can be edited manually if needed.
 ## Anti-Cheat Integration
 
 ### Supported Mods
-- **PEAKER**: Advanced anti-cheat with comprehensive detection
-- **PeakAntiCheat**: Specialized PEAK anti-cheat system
+- **[PEAKER](https://thunderstore.io/c/peak/p/lammas123/PEAKER/)**: Advanced anti-cheat with comprehensive detection
+- **[PeakAntiCheat](https://thunderstore.io/c/peak/p/hiccup/PEAKAntiCheat/)**: Specialized PEAK anti-cheat system
 
 ### How It Works
 1. The mod detects if compatible anti-cheat mods are installed
